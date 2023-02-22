@@ -24,8 +24,6 @@ export default function Home() {
         <ListSection />
         <FeatureSection />
         <CasesSection />
-        <SocialProof />
-        {/* <PricingTable /> */}
       </main>
       <footer className={tw(`flex flex-1 py-8 justify-center items-center content-center border-t border-gray-300 mx-6`)}>
         <a

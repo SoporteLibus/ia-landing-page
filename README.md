@@ -19,4 +19,4 @@ Ejecute el siguiente comando dentro de la carpeta del proyecto:
 1. `npm install`
 2. `npm run dev`
 
-Para ver el proyecto abrir `http://localhost:3000`
+Para ver el proyecto abrir `http://localhost:3004`
